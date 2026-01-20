@@ -13,4 +13,4 @@ Excel, Data Modeling, Power Pivot, Pivot Tables, Excel Charts, Slicers, KPI Card
 ![screenshot of the ERD from Power Pivot](/Images/erd.png)
 
 ## Results
-![screenshot of the report - unfiltered](/Images/report_screenshot.png)
+![screenshot of the report - unfiltered](/Images/report_update.png)
